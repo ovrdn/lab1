@@ -12,4 +12,4 @@ begin
   Writeln('Press <Enter> to quit.');
   Readln;
 end.
-
+\\ Обновление
